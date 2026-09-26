@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Project5_DapperNorthwind
+namespace Project9_MongoDbOrder
 {
     internal static class Program
     {
@@ -20,5 +20,3 @@ namespace Project5_DapperNorthwind
         }
     }
 }
-
-
