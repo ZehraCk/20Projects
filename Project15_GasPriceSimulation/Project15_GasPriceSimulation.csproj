@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CA4DA468-6477-4BFF-8707-44CDC814C050}</ProjectGuid>
+    <ProjectGuid>{015CB2E8-70AE-4D9A-83CD-8ABA796D824E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Project8_RapidApiCurrency</RootNamespace>
-    <AssemblyName>Project8_RapidApiCurrency</AssemblyName>
+    <RootNamespace>Project15_GasPriceSimulation</RootNamespace>
+    <AssemblyName>Project15_GasPriceSimulation</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
