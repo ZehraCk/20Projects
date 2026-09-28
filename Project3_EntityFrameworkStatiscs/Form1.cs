@@ -21,7 +21,7 @@ namespace Project3_EntityFrameworkStatiscs
         private void Form1_Load(object sender, EventArgs e)
         {
             
-            //Toplam KAtegori sayısı
+            //Toplam Kategori sayısı
             int categoryCount = db.TblCategory.Count();
             lblCategoryCount.Text = categoryCount.ToString();
 

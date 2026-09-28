@@ -52,5 +52,10 @@ namespace Project12_JwtToken
         {
 
         }
+
+        private void FrmLogin_Load_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

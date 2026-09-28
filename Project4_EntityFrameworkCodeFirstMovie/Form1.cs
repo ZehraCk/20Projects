@@ -58,5 +58,10 @@ namespace Project4_EntityFrameworkCodeFirstMovie
             var values = context.Categories.Where(x => x.CategoryName == txtName.Text).ToList();
             dataGridView1.DataSource = values;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
