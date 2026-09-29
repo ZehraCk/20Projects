@@ -117,4 +117,14 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="groupBox1.Text" xml:space="preserve">
+    <value>Super Store veri seti yaklaşık 55.000 satırdan oluşan bir satış datasını barındırmaktadır. Satış datası
+içerisinde ülkelere, şehirlere, ilçelere ve önceliklere göre satış gruplandırmaları yapılabilir.
+Yukarıda Widgetlar üzerinde bazı istatistiksel veriler gösterilmiştir.</value>
+  </data>
+  <data name="groupBox4.Text" xml:space="preserve">
+    <value>Super Store veri seti yaklaşık 55.000 satırdan oluşan bir satış datasını barındırmaktadır. Satış datası
+içerisinde ülkelere, şehirlere, ilçelere ve önceliklere göre satış gruplandırmaları yapılabilir.
+Yukarıda Widgetlar üzerinde bazı istatistiksel veriler gösterilmiştir.</value>
+  </data>
 </root>
